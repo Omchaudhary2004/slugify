@@ -33,6 +33,7 @@ Or install directly with Cargo:
 ```bash
 cargo add slugi
 ```
+
 🚀 Usage
 ```rust
 use slugi::slugify;
