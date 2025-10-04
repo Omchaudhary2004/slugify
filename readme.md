@@ -28,8 +28,9 @@ Add `slugi` to your `Cargo.toml`:
 ```toml
 [dependencies]
 slugi = "0.1"
-
+```
 Or install directly with Cargo:
+
 ```bash
 cargo add slugi
 ```
