@@ -1,7 +1,7 @@
 [package]
-name = "slugify"
+name = "slugi"
 version = "0.1.0"
-edition = "2025"
+edition = "2021"
 authors = ["Om Chaudhary <omghanshyam394@gmail.com>"]
 description = "A simple Rust library to slugify text (e.g., 'Café au lait' → 'cafe_au_lait')."
 license = "MIT"
