@@ -7,6 +7,6 @@ description = "A simple Rust library to slugify text (e.g., 'Café au lait' → 
 license = "MIT"
 repository = "https://github.com/yourusername/slugify"
 keywords = ["slugify", "text", "string", "utility"]
-readme = "README.md"
+readme = "readme.md"
 
 [dependencies]
